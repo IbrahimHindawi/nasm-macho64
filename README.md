@@ -1,3 +1,2 @@
 # nasm-macho64
-# nasm-macho64
-# nasm-macho64
+some assembly programming
