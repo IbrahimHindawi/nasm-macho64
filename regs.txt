@@ -1,0 +1,17 @@
+rax - register a extended accumulator
+rbx - register b extended base
+rcx - register c extended counter
+rdx - register d extended data
+rbp - register base pointer (start of stack)
+rsp - register stack pointer (current location in stack, growing downwards)
+rsi - register source index (source for data copies)
+rdi - register destination index (destination for data copies)
+r8  - register 8
+r9  - register 9
+r10 - register 10
+r11 - register 11
+r12 - register 12
+r13 - register 13
+r14 - register 14
+r15 - register 15
+rip - register instruction pointer (next instruction)
